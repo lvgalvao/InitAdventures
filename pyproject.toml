@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.11"
 pandas = "^2.1.0"
 ipython = "^8.15.0"
+requests = "^2.31.0"
 
 
 [build-system]
