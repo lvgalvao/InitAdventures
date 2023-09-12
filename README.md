@@ -1,5 +1,8 @@
 ## `__init__.py`: A Cerimônia de Iniciação Python
 
+Vídeo: https://www.youtube.com/watch?v=H7rINLV6e0I
+_____
+
 Quando mergulhamos no mundo Python, somos acolhidos por sua sintaxe limpa e fluidez. Tudo parece tranquilo. Mas, cedo ou tarde, esbarramos no intrigante `__init__.py`, aparecendo em quase todos os cantos.
 
 Encare-o como um marco na jornada Python. Ele sinaliza que você está se aprofundando, enfrentando novidades. Aqui, desvendaremos os mistérios por trás deste arquivo emblemático.
